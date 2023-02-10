@@ -1,0 +1,2 @@
+#!/ibi/bash
+chown vincent:staff *
